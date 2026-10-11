@@ -21,6 +21,6 @@ This is my first step in learning GitHub and building my programming skills
 
 - [x] Added my first README 
 
-- [] Build my first coding project
+- [ ] Build my first coding project
 
-- [] Created my portfolio website
+- [ ] Created my portfolio website
